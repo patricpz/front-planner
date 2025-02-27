@@ -1,0 +1,3 @@
+export const supaUrl = 'https://wmoulrajcvlkbabdderr.supabase.co'
+
+export const anonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indtb3VscmFqY3Zsa2JhYmRkZXJyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDA2ODc2MjEsImV4cCI6MjA1NjI2MzYyMX0.aTnF569AQDIj2G-9bdpUYEZd87RxvcBz4Ebcnuy-OIw'
